@@ -1,0 +1,28 @@
+.container {
+   width:1550px;
+   height:120px;
+   background-color:  #097974;
+}
+
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    width:150px;
+    height:80px;
+}
+.links{
+    margin-left: 784px;
+    margin-top: -65px;
+}
+
+.link{
+    margin-left:30px;
+    color:#e65377;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: #f03737;
+}
+.active_class{
+    font-weight: bold;
+    color:crimson;
+}

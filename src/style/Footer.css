@@ -1,0 +1,11 @@
+.footer_container{
+    height: 142px;
+    background-color: darkslategrey;
+    margin-top: 64px;
+}
+.footer_list{
+    color:white;
+    list-style-type:none;
+    padding-top: 30px;
+    margin-left: 103px;
+}
